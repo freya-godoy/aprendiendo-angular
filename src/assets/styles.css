@@ -1,0 +1,16 @@
+.altoPrecio{
+    color:rgb(228, 151, 52) ;
+    font-size: 18px ;
+}
+
+.fondoMoccasin{
+    background: Moccasin;
+}
+
+.subrayado{
+    text-decoration: underline;
+}
+
+.active{
+    border: 3px solid salmon;
+}
